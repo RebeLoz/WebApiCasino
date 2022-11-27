@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.AssemblyInfo.cs
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\Proyectos\WebApiCasino\WebApiCasino\obj\Debug\net6.0\WebApiCasino.MvcApplicationPartsAssemblyInfo.cache

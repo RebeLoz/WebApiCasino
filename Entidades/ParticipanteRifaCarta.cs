@@ -2,6 +2,7 @@
 {
     public class ParticipanteRifaCarta
     {
+        public int id { get; set; }
         public int idParticipante { get; set; }
         public int idRifa { get; set; }
         public int idCarta { get; set; }

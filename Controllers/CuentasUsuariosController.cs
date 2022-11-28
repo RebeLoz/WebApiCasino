@@ -1,6 +1,6 @@
 ﻿namespace WebApiCasino.Controllers
 {
-    public class LoginController
+    public class CuentasUsuariosController
     {
     }
 }

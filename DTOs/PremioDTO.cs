@@ -1,18 +1,18 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebApiCasino.Entidades;
 
-namespace WebApiCasino.Entidades
+namespace WebApiCasino.DTOs
 {
-    public class Premio
+    public class PremioDTO
     {
-        public int id { get; set; }
-        public int idRifa { get; set; }
         [Required]
         [StringLength(maximumLength: 20, ErrorMessage = "El campo {0} solo puede tener máximo 20 carácteres")]
         public string premio { get; set; }
         [Required]
-        [StringLength(maximumLength: 50, ErrorMessage = "El campo {0} solo puede tener máximo 50 carácteres")]
+        [StringLength(maximumLength: 20, ErrorMessage = "El campo {0} solo puede tener máximo 50 carácteres")]
         public string descripcion { get; set; }
         public int numpremio { get; set; }
+        public int idRifa { get; set; }
 
         public Rifa Rifa { get; set; }
     }
